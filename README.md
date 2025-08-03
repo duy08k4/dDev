@@ -7,7 +7,6 @@ But honestly, it was a tough start — I had no guidance, and it was easy to fee
 I’m drawn to creative and unconventional projects because I constantly seek out challenges, new technologies, and opportunities to grow. For me, it’s all about stepping outside of my comfort zone to level up.
 
 ## **🧰 Languages and Tools**
-### 💻 Tecnical skills
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap; padding: 0 20px">
     <img title="Html5" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -22,20 +21,10 @@ I’m drawn to creative and unconventional projects because I constantly seek ou
     <img title="Tauri" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
     <img title="Flask" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img title="SQL" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-    
-
-</div>
-
-### ☁️ Cloud
-<div style="display: flex; gap: 50px; flex-wrap: wrap; padding: 0 20px">
     <img title="Firebase" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
     <img title="Cloundinary" style="height: 50px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" />
     <img title="Render" style="height: 50px" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" />
     <img title="Vercel" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-</div>
-          
-### 🔧 Tools
-<div style="display: flex; gap: 50px; flex-wrap: wrap; padding: 0 20px">
     <img title="Git" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img title="Postman" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     <img title="Figma" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />

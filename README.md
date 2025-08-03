@@ -42,11 +42,3 @@ I’m drawn to creative and unconventional projects because I constantly seek ou
     <img title="QGis" style="height: 50px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" />
     <img title="PostgreSQL" style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
-
-<br />
-
-## **📦 My project**
-
-<div style="background-color: red">
-    
-</div>

@@ -2,9 +2,11 @@
 
 I’m currently a student at Ho Chi Minh City University of Agriculture and Forestry, majoring in Information Systems. I wrote my very first lines of code back in 2021, aiming to become a professional full-stack web developer.
 
-But honestly, it was a tough start — I had no guidance, and it was easy to feel discouraged. It wasn’t until 2023 that I began studying programming-related subjects at university. Whenever I had to build an application for a course project, I’d always choose ideas that were overlooked by others — not because they were easy, but because they pushed me beyond my current skill set.
+Honestly, it was a rough beginning — I had no guidance and often felt lost and discouraged. It wasn’t until 2023 that I started learning programming formally at university.
 
-I’m drawn to creative and unconventional projects because I constantly seek out challenges, new technologies, and opportunities to grow. For me, it’s all about stepping outside of my comfort zone to level up.
+For each course project, I always chose unique ideas — ones that few people tackled and that aimed to solve real-world problems. Because of that, I often had very little reference material, which challenged me to be more creative and pushed me to level up my technical skills.
+
+For me, stepping out of my comfort zone is essential for growth — but I believe every risk should be well-managed, not just taken for the sake of being bold.
 
 ## **🧰 Languages and Tools**
 

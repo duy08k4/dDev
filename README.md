@@ -14,28 +14,31 @@ For me, stepping out of my comfort zone is essential for growth — but I believ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duy08k4&layout=compact&theme=holi)
 
 ## **🧰 Languages and Tools**
-<img title="Html5" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img title="Css3" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img title="Javascript" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img title="Typescript" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img title="Python" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img title="React" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img title="Tailwindcss" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img title="Ionic" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
-<img title="Nodejs" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img title="Tauri" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
-<img title="Flask" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img title="SQL" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img title="Firebase" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img title="Cloundinary" height="50px" style="padding-right: 40px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" />
-<img title="Render" height="50px" style="padding-right: 40px;" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" />
-<img title="Vercel" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-<img title="Git" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img title="Postman" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img title="Figma" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img title="QGis" height="50px" style="padding-right: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" />
-<img title="PostgreSQL" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img title="PostgreSQL" height="50px" style="padding-right: 40px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTCMGsqXpdOLsVenA_1jLS71hM4SINrMAGg&s" />
+
+<p align="left">
+    <img title="Html5" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img title="Css3" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img title="Javascript" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img title="Typescript" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img title="Python" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img title="React" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img title="Tailwindcss" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img title="Ionic" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+    <img title="Nodejs" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img title="Tauri" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
+    <img title="Flask" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+    <img title="SQL" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img title="Firebase" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+    <img title="Cloundinary" height="50px" style="padding-right: 40px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/cloudinary-icon-ug0qqy8ms6ozyzy6cntbll.png/cloudinary-icon-hz05evx1htrghud89kpab4.png?_a=DATAg1AAZAA0" />
+    <img title="Render" height="50px" style="padding-right: 40px;" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" />
+    <img title="Vercel" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+    <img title="Git" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img title="Postman" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img title="Figma" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img title="QGis" height="50px" style="padding-right: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" />
+    <img title="PostgreSQL" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img title="PostgreSQL" height="50px" style="padding-right: 40px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTCMGsqXpdOLsVenA_1jLS71hM4SINrMAGg&s" />
+</p>
 
 ## **💾 My Repos**
 

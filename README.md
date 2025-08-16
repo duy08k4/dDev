@@ -37,7 +37,7 @@ For me, stepping out of my comfort zone is essential for growth — but I believ
     <img title="Figma" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img title="QGis" height="50px" style="padding-right: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" />
     <img title="PostgreSQL" height="50px" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img title="PostgreSQL" height="50px" style="padding-right: 40px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTCMGsqXpdOLsVenA_1jLS71hM4SINrMAGg&s" />
+    <img title="FME" height="50px" style="padding-right: 40px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTCMGsqXpdOLsVenA_1jLS71hM4SINrMAGg&s" />
 </p>
 
 ## **💾 My Repos**

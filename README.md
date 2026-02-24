@@ -1,4 +1,4 @@
-# **🔥 dDev 🔥 - 💻 Web Developer 💻**
+# **🔥 WallDy 🔥 - 💻 Web Developer 💻**
 
 I’m currently a student at **_Ho Chi Minh City University of Agriculture and Forestry_**, majoring in Information Systems. I wrote my very first lines of code back in **2021**, aiming to become a professional full-stack web developer.
 
